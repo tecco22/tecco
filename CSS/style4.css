@@ -1,0 +1,29 @@
+.Horario{
+    padding: 100px;
+    background-color: #130d0a;
+}
+.Horario-info h2{
+    font-size: 75px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.Horario-txt{
+    display: flex;
+    justify-content: space-between;
+}
+.txt{
+    color: #ffffff;
+}
+.txt h4 {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.txt p{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
